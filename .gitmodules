@@ -1,0 +1,3 @@
+[submodule "snapaste"]
+	path = snapaste
+	url = https://github.com/kstarikov/snapaste.git
